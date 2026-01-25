@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="./README.en.md">🇺🇸 English version</a>
+</p>
+
 <div align="center">
 
 <img
@@ -31,7 +35,7 @@ Desenvolvendo experiências digitais que conectam **design, tecnologia e pessoas
 Este repositório serve como o registro central dos projetos desenvolvidos durante o curso superior de **Tecnologia em Web Design** na **FIAP**. O foco do programa é a criação de interfaces digitais modernas, acessíveis e centradas no usuário.
 
 > [!IMPORTANT]
-> **Cronograma do Curso:** Fevereiro de 2026 – Dezembro de 2027 (2 Anos)
+> **Cronograma do Curso:** Fevereiro de 2026 – Dezembro de 2027 (2 Anos) - EAD
 >
 > Todo o conteúdo aqui presente reflete uma abordagem **hands-on** (mão na massa), orientada ao mercado e à evolução técnica progressiva.
 
@@ -73,11 +77,11 @@ Cada diretório representa um módulo, lab ou desafio específico desenvolvido d
 
 ```bash
 WebDesignFiapProjects/
-├── 📂 projects/           # Projetos principais e "Case Studies"
-├── 📂 fundamentals/       # Exercícios de lógica e fundamentos da Web
-├── 📂 ui-ux/              # Artefatos de design, wireframes e personas
-├── 📂 responsive-design/  # Desafios focados em mobile-first e media queries
-└── 📂 experiments/        # Testes, POCs e aprendizado livre
+├── projects/           # Projetos principais e "Case Studies"
+├── fundamentals/       # Exercícios de lógica e fundamentos da Web
+├── ui-ux/              # Artefatos de design, wireframes e personas
+├── responsive-design/  # Desafios focados em mobile-first e media queries
+└── experiments/        # Testes, POCs e aprendizado livre
 
 ```
 
