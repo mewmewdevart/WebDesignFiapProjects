@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="./README.en.md">🇺🇸 English version</a>
+  <a href="./README.pt-br.md">🇧🇷 Versão em Português Brasileiro</a>
 </p>
 
 <div align="center">
@@ -13,13 +13,13 @@
 
 # Web Design – FIAP
 
-Desenvolvendo experiências digitais que conectam **design, tecnologia e pessoas**.
+Building digital experiences that connect **design, technology, and people**.
 
 <br />
 
-![Status](https://img.shields.io/badge/Status-Em_Progresso-EA1D5D?style=for-the-badge&logo=headspace&logoColor=white)
-![Contexto](https://img.shields.io/badge/Contexto-Acadêmico-EA1D5D?style=for-the-badge&logo=fiap&logoColor=white)
-![Programa](https://img.shields.io/badge/Curso-Web_Design-EA1D5D?style=for-the-badge&logo=dribbble&logoColor=white)
+![Status](https://img.shields.io/badge/Status-In_Progress-EA1D5D?style=for-the-badge&logo=headspace&logoColor=white)
+![Context](https://img.shields.io/badge/Context-Academic-EA1D5D?style=for-the-badge&logo=fiap&logoColor=white)
+![Program](https://img.shields.io/badge/Program-Web_Design-EA1D5D?style=for-the-badge&logo=dribbble&logoColor=white)
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/mewmewdevart/WebDesignFiapProjects?style=flat-square&color=black" alt="Last Commit">
@@ -30,30 +30,31 @@ Desenvolvendo experiências digitais que conectam **design, tecnologia e pessoas
 </div>
 
 
-## Visão Geral
+## Overview
 
-Este repositório serve como o registro central dos projetos desenvolvidos durante o curso superior de **Tecnologia em Web Design** na **FIAP**. O foco do programa é a criação de interfaces digitais modernas, acessíveis e centradas no usuário.
+This repository serves as the central record of projects developed during the **Web Design Technology degree** at **FIAP**. The program focuses on creating modern, accessible, and user-centered digital interfaces.
 
 > [!IMPORTANT]
-> **Cronograma do Curso:** Fevereiro de 2026 – Dezembro de 2027 (2 Anos) - EAD
+> **Program Timeline:** February 2026 – December 2027 (2 years) — Distance Learning (EAD)
 >
-> Todo o conteúdo aqui presente reflete uma abordagem **hands-on** (mão na massa), orientada ao mercado e à evolução técnica progressiva.
+> All content reflects a **hands-on**, market-oriented approach with continuous technical and creative progression.
 
-## Trilha de Aprendizado
 
-A grade curricular abrange desde os fundamentos visuais até a implementação técnica avançada.
+## Learning Path
 
-| Design & UX | Desenvolvimento Front-end | Estratégia & Ferramentas |
+The curriculum covers everything from visual fundamentals to advanced technical implementation.
+
+| Design & UX | Front-end Development | Strategy & Tools |
 | :--- | :--- | :--- |
-| 🎨 UI/UX Design | 💻 HTML5, CSS3 & JS | 🚀 Marketing Digital & SEO |
-| 📱 Design Responsivo | ⚛️ React & Next.js | ☁️ Cloud & DevOps Básico |
-| ♿ Acessibilidade | 🔧 Low / No Code | 🕹️ Gamificação |
-| 🧩 Prototipagem | 🛠️ Git & Versionamento | 📈 Design Systems |
+| 🎨 UI/UX Design | 💻 HTML5, CSS3 & JS | 🚀 Digital Marketing & SEO |
+| 📱 Responsive Design | ⚛️ React & Next.js | ☁️ Cloud & Basic DevOps |
+| ♿ Accessibility | 🔧 Low / No Code | 🕹️ Gamification |
+| 🧩 Prototyping | 🛠️ Git & Version Control | 📈 Design Systems |
 
 
-## Tech Stack & Ferramentas
+## Tech Stack & Tools
 
-Tecnologias e softwares utilizados no dia a dia dos projetos:
+Technologies and software used throughout the projects:
 
 ### Core & Frameworks
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -63,42 +64,33 @@ Tecnologias e softwares utilizados no dia a dia dos projetos:
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
-### Design & Prototipagem
+### Design & Prototyping
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-### Outros
+### Other Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
+## Repository Structure
 
-## Estrutura do Repositório
-
-Cada diretório representa um módulo, lab ou desafio específico desenvolvido durante o programa.
+Each directory represents a specific module, lab, or challenge developed throughout the program.
 
 ```bash
 WebDesignFiapProjects/
-├── projects/           # Projetos principais e "Case Studies"
-├── fundamentals/       # Exercícios de lógica e fundamentos da Web
-├── ui-ux/              # Artefatos de design, wireframes e personas
-├── responsive-design/  # Desafios focados em mobile-first e media queries
-└── experiments/        # Testes, POCs e aprendizado livre
-
+├── projects/           # Main projects and case studies
+├── fundamentals/       # Web fundamentals and logic exercises
+├── ui-ux/              # Design artifacts, wireframes, and personas
+├── responsive-design/  # Mobile-first and media query challenges
+└── experiments/        # Experiments, POCs, and exploratory learning
 ```
 
-
-## Objetivos do repositório
-
-Este repositório tem como finalidade:
-
-1. **Documentar** a evolução técnica e criativa ao longo dos 4 semestres.
-2. **Centralizar** projetos acadêmicos práticos em um único local.
-3. **Fundamentar** futuros estudos de caso para portfólio profissional.
+## Repository Goals
+This repository aims to:
+- Document technical and creative growth across four semesters.
+- Centralize hands-on academic projects in a single place.
+- Support future portfolio-ready case studies.
 
 > [!NOTE]
-> Sinta-se à vontade para explorar os diretórios, abrir *issues* com feedbacks ou sugestões. A troca de conhecimento é fundamental para o crescimento.
+> Feel free to explore the directories or open issues with feedback or suggestions. Knowledge sharing is key to growth.
 
-<br />
-
-<div align="center">
-<sub>Feito com 💜 com  muito chá matter por <strong>mewmewdevart</strong>.</sub>
-</div>
+<br /> <div align="center"> <sub>Made with 💜, lots of matte tea, by <strong>mewmewdevart</strong>.</sub> </div> 
