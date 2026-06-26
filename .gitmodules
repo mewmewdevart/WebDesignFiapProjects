@@ -1,0 +1,9 @@
+[submodule "projects/IaraGamesStore"]
+	path = projects/IaraGamesStore
+	url = git@github.com:mewmewdevart/IaraGamesStore.git
+[submodule "projects/SpaceConnectFiapChallenge"]
+	path = projects/SpaceConnectFiapChallenge
+	url = git@github.com:mewmewdevart/SpaceConnectFiapChallenge.git
+[submodule "projects/AuroraFIAPChallenge"]
+	path = projects/AuroraFIAPChallenge
+	url = git@github.com:mewmewdevart/AuroraFIAPChallenge.git
