@@ -8,8 +8,9 @@
   width="120"
   height="120"
   alt="FIAP Web Design"
-  src="https://github.com/user-attachments/assets/c44fde21-3f0b-4520-af04-dd6e1cbdcccf"
+  src="https://github.com/user-attachments/assets/dea3a464-2dd7-4016-8993-6072f5080dfd"
 />
+
 
 # Web Design – FIAP
 
